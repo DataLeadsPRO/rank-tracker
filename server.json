@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
-  "name": "io.github.dataleadspro/rank-tracker",
+  "name": "io.github.DataLeadsPRO/rank-tracker",
   "description": "Track keyword positions over time: create trackers, check ranks, and pull history programmatically.",
   "version": "1.0.0",
   "repository": {
