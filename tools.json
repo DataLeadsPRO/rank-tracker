@@ -1,0 +1,38 @@
+[
+  {
+    "name": "rank_check",
+    "method": "POST",
+    "path": "/rank/check",
+    "description": "V1 Rank Check"
+  },
+  {
+    "name": "rank_trackers_create",
+    "method": "POST",
+    "path": "/rank/trackers/create",
+    "description": "V1 Rank Trackers Create"
+  },
+  {
+    "name": "rank_trackers_list",
+    "method": "POST",
+    "path": "/rank/trackers/list",
+    "description": "V1 Rank Trackers List"
+  },
+  {
+    "name": "rank_trackers_results",
+    "method": "POST",
+    "path": "/rank/trackers/results",
+    "description": "V1 Rank Trackers Results"
+  },
+  {
+    "name": "rank_trackers_check_now",
+    "method": "POST",
+    "path": "/rank/trackers/check-now",
+    "description": "V1 Rank Trackers Check Now"
+  },
+  {
+    "name": "rank_trackers_delete",
+    "method": "POST",
+    "path": "/rank/trackers/delete",
+    "description": "V1 Rank Trackers Delete"
+  }
+]
